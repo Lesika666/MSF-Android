@@ -52,7 +52,7 @@ if ngrok == 'y':
 	volver = input("¿Desea volver al menú principal? [{}y{}/{}n{}]: ".format(GREEN,END,RED,END))
 
 	if volver == 'y':
-		os.system('python3 payload.py')
+		os.system('python3 msfandroid.py')
 	else:
 		print("\n{}[GOODBYE!]{} Saliendo del programa...".format(RED_NORMAL,END))
 		exit(0)	

@@ -2,7 +2,7 @@
 
 Generador de APK's maliciosas para Android | local y remoto.
 
-![msf_android](https://user-images.githubusercontent.com/75953873/156858658-57b6bb3f-e399-473f-a673-e83e8573b29b.png)
+![msf_android](https://user-images.githubusercontent.com/75953873/156859921-fb62e471-16e6-43f9-809c-245d9ccf57ea.png)
 
 ## 📷 SCREENSHOTS 
 

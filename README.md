@@ -34,9 +34,10 @@ Generador de APK's maliciosas para Android | local y remoto.
 ## Instalación / Installation
 
 ```
-• git clone https://github.com/R3LI4NT/MSF-Android
-• cd MSF-Android
-• sudo python3 msfandroid.py
+> git clone https://github.com/R3LI4NT/MSF-Android
+> cd MSF-Android
+> pip3 install -r requirements.txt
+> sudo python3 msfandroid.py
 ```
 
 

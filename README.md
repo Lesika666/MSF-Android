@@ -7,18 +7,18 @@ Generador de APK's maliciosas para Android | local y remoto.
 ## 📷 SCREENSHOTS 
 
 ### Instalando NGROK:
-![download_ngrok](https://user-images.githubusercontent.com/75953873/156858687-ddee2244-982a-4cd7-bff3-d7a0ea9e19f4.png)
+![download_ngrok](https://user-images.githubusercontent.com/75953873/156859956-3ff26083-f760-4f0b-8601-bc3522d069bf.png)
 
 
 ### Creando APK:
-![ngrok](https://user-images.githubusercontent.com/75953873/156858797-e04b002a-aa7a-45d5-bdab-2a59b076a56a.png)
+![ngrok](https://user-images.githubusercontent.com/75953873/156860013-d3fb2582-7b6a-4ccf-90ff-cdd2084173f7.png)
 
 
 ### Obteniendo enlace **`LOCAL`** && **`REMOTO`**:
-![downloadAPK](https://user-images.githubusercontent.com/75953873/156858874-aa842762-05d0-4d7b-831f-18f534e8ecda.png)
+![downloadAPK](https://user-images.githubusercontent.com/75953873/156860044-338999aa-7bb6-4e50-9bfe-551bfe7ed5ce.png)
 
 ### Obteniendo una sesión meterpreter
-![exploit](https://user-images.githubusercontent.com/75953873/156859040-6a96a969-cbeb-448e-ab64-07c36780a91b.png)
+![exploit](https://user-images.githubusercontent.com/75953873/156860066-cb01fbe7-8b91-4666-9cb7-02188ad603ac.png)
 
 ##### Abrimos una nueva terminal y ejecutamos:
 ```
@@ -28,7 +28,7 @@ Generador de APK's maliciosas para Android | local y remoto.
 > set LHOST 0.0.0.0
 > run
 ```
-![exploit_2](https://user-images.githubusercontent.com/75953873/156859055-666a76c4-d74b-48e4-a262-4f95f6dcebd6.png)
+![exploit_2](https://user-images.githubusercontent.com/75953873/156860088-75dcb013-275e-4c35-a924-3c1054eba630.png)
 
 
 ## Instalación / Installation
